@@ -18,8 +18,8 @@ func NewPatientController(databaseSession *mgo.Session) *PatientController{
 	return &PatientController{databaseSession}
 }
 
-GetPatient
+//GetPatient
 
-CreatePatient
+//CreatePatient
 
-DeletePatient
+//DeletePatient
